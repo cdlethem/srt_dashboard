@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536405484085.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8A1D696",
+    "lastKnownWriteTime" : 7813590796663464571,
+    "last_content_update" : 1536405484085,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "93BBB7C1",
+        "caption" : "prospies_df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=prospies_df&cache_key=93BBB7C1",
+        "displayedObservations" : 1426,
+        "environment" : "",
+        "object" : "prospies_df",
+        "preview" : 0,
+        "totalObservations" : 1426,
+        "variables" : 32
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

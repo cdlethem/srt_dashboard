@@ -1,0 +1,344 @@
+[0m[0K]0;:/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[?25l
+[0;32mcdlet@Colin-PC [0;35m [0;33m~/Documents/R/srt_dashboard/srt_shiny[0m[0K
+$[0K[1A[?25h[?25l
+[3G[?25h[?25l$ b[0K[?25ha[0Ks[0Kh[0K[?25l
+[0K[?25h]0;cdlet@Colin-PC: /mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ g[0K[?25hi[0K[?25lt[0K[74G[?25h[75G[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git i[0K[?25h[?25ln[0K[77G[?25h[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git ini[0K[?25ht[0K[?25l
+[0K[?25hInitialized empty Git repository in /mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny/.git/[0K[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ g[0K[?25hi[0Kt[0K[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git a[0K[?25h[?25ld[0K[77G[?25h[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git add[0K[78G[?25h[79G[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git add .[0K[?25h[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ g[0K[?25hi[0Kt[0K[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git c[0K[76G[?25h[77G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git co[0K[77G[?25h[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git com[0K[78G[?25h[79G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git comm[0K[79G[?25h[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commi[0K[?25ht[0K[?25l
+[0K[?25h[0m[1;1H[2J[0m[0K[?25l
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[?25h[0;30;47m  GNU nano 2.5.3           File: /mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny/.git/COMMIT_EDITMSG[0K[?25l
+
+
+[0m# Please enter the commit message for your changes. Lines starting[0K
+# with '#' will be ignored, and an empty message aborts the commit.[0K
+# On branch master[0K
+#[0K
+# Initial commit[0K
+#[0K
+# Changes to be committed:[0K
+#       new file:   .Rproj.user/28B87E55/console06/BBFD70A5[0K
+#       new file:   .Rproj.user/28B87E55/console06/INDEX001[0K
+#       new file:   .Rproj.user/28B87E55/sources/prop/80018AB[0K
+#       new file:   .Rproj.user/28B87E55/sources/prop/92B391DE[0K
+#       new file:   .Rproj.user/28B87E55/sources/prop/INDEX[0K
+#       new file:   .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732[0K
+#       new file:   .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732-contents[0K
+#       new file:   .Rproj.user/28B87E55/sources/s-F3D75810/9CE0198B[0K
+#       new file:   .Rproj.user/28B87E55/sources/s-F3D75810/9CE0198B-contents[0K
+                                                           [0;30;47m[ Read 25 lines ][0m[0K
+[0;30;47m^G[0m Get Help     [0;30;47m^O[0m Write Out    [0;30;47m^W[0m Where Is     [0;30;47m^K[0m Cut Text     [0;30;47m^J[0m Justify      [0;30;47m^C[0m Cur Pos      [0;30;47m^Y[0m Prev Page    [0;30;47mM-\[0m First Line[0K
+[0;30;47m^X[0m Exit         [0;30;47m^R[0m Read File    [0;30;47m^\[0m Replace      [0;30;47m^U[0m Uncut Text   [0;30;47m^T[0m To Spell     [0;30;47m^_[0m Go To Line   [0;30;47m^V[0m Next Page    [0;30;47mM-/[0m Last Line[0K[19A[?25h[0m[1;1H[2J[0m[0K[?25l
+[0;32mcdlet@Colin-PC [0;35m [0;33m~/Documents/R/srt_dashboard/srt_shiny[0m[0K
+$ bash[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git init[0K
+Initialized empty Git repository in /mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny/.git/[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git add .[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K
+Aborting commit due to empty commit message.[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[?25h[83G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit -[0K[?25hm[0K[86G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit -m "[0K[?25hI[0Kn[0Ki[0Kt[0Ki[0Ka[0K[?25ll[0K[93G[?25h[94G[95G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit -m "Initial c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K[?25l
+[0K[?25h[master (root-commit) b2c7e8b] Initial commit[0K[?25l
+ 13 files changed, 268 insertions(+)[0K
+ create mode 100644 .Rproj.user/28B87E55/console06/BBFD70A5[0K
+ create mode 100644 .Rproj.user/28B87E55/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/prop/80018AB[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/prop/92B391DE[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/prop/INDEX[0K[3A[?25h[?25l
+
+
+
+ create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732-contents[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/9CE0198B[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/9CE0198B-contents[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 app.R[0K
+ create mode 100644 srt_shiny.Rproj[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit -m "Initial commit"[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/28B87E55/console06/BBFD70A5[0m[0K
+        [0;31mmodified:   .Rproj.user/28B87E55/sources/prop/92B391DE[0m[0K
+        [0;31mdeleted:    .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732[0m[0K
+        [0;31mmodified:   app.R[0m[0K
+[0K
+Untracked files:[0K
+        [0;31m.Rproj.user/shared/notebooks/paths[0m[0K
+[0K
+no changes added to commit[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[?25h -m "Initial commit"[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git add .[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[?25h -m "Initial commit"[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[102G[?25h[82G[?25l
+[0K[?25h[0m[1;1H[2J[0m[0K[?25l
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[?25h[0;30;47m  GNU nano 2.5.3           File: /mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny/.git/COMMIT_EDITMSG[0K[?25l
+
+
+[0m# Please enter the commit message for your changes. Lines starting[0K
+# with '#' will be ignored, and an empty message aborts the commit.[0K
+# On branch master[0K
+# Changes to be committed:[0K
+#       modified:   .Rproj.user/28B87E55/console06/BBFD70A5[0K
+#       modified:   .Rproj.user/28B87E55/sources/prop/92B391DE[0K
+#       deleted:    .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732[0K
+#       new file:   .Rproj.user/shared/notebooks/paths[0K
+#       modified:   app.R[0K
+#[0K
+# Changes not staged for commit:[0K
+#       modified:   .Rproj.user/28B87E55/console06/BBFD70A5[0K
+#[0K
+
+
+
+                                                           [0;30;47m[ Read 14 lines ][0m[0K
+[0;30;47m^G[0m Get Help     [0;30;47m^O[0m Write Out    [0;30;47m^W[0m Where Is     [0;30;47m^K[0m Cut Text     [0;30;47m^J[0m Justify      [0;30;47m^C[0m Cur Pos      [0;30;47m^Y[0m Prev Page    [0;30;47mM-\[0m First Line[0K
+[0;30;47m^X[0m Exit         [0;30;47m^R[0m Read File    [0;30;47m^\[0m Replace      [0;30;47m^U[0m Uncut Text   [0;30;47m^T[0m To Spell     [0;30;47m^_[0m Go To Line   [0;30;47m^V[0m Next Page    [0;30;47mM-/[0m Last Line[0K[19A[?25h[0m[1;1H[2J[0m create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/9CE0198B[0K[?25l
+ create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/9CE0198B-contents[0K
+ create mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 app.R[0K
+ create mode 100644 srt_shiny.Rproj[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K
+On branch master[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/28B87E55/console06/BBFD70A5[0m[0K
+        [0;31mmodified:   .Rproj.user/28B87E55/sources/prop/92B391DE[0m[0K
+        [0;31mdeleted:    .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732[0m[0K
+        [0;31mmodified:   app.R[0m[0K
+[0K
+Untracked files:[0K
+        [0;31m.Rproj.user/shared/notebooks/paths[0m[0K
+[0K
+no changes added to commit[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git add .[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K
+Aborting commit due to empty commit message.[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[72G[?25h[82G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git commit[0K[?25h -m "Initial commit"[0K[?25l
+[0K[?25h[master b4a5119] Initial commit[0K[?25l
+ 5 files changed, 131 insertions(+), 74 deletions(-)[0K
+ delete mode 100644 .Rproj.user/28B87E55/sources/s-F3D75810/4FBFC732[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ g[0K[?25hi[0Kt[0K[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git p[0K[76G[?25h[77G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git pu[0K[?25hs[0Kh[0K[81G[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git pus[0K[80G[?25h[79G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git pu[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git p[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git[0K[76G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[83G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote a[0K[83G[?25h[84G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote ad[0K[84G[?25h[85G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add[0K[?25h[87G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[94G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add origin h[0K[?25ht[0Kt[0Kp[0Ks[0K:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Kc[0K[?25lo[0K[110G[?25h[111G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add origin https://github.com[0K[?25h/[0Kc[0Kd[0Kl[0Ke[0K[?25lt[0K[117G[?25h[118G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add origin https://github.com/cdleth[0K[?25he[0K[?25lm[0K[120G[?25h[121G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add origin https://github.com/cdlethem/[0K[?25hs[0K[?25lr[0K[123G[?25h[124G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add origin https://github.com/cdlethem/srt[0K[?25h_[0K[?25ld[0K[126G[?25h[127G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add origin https://github.com/cdlethem/srt_da[0K[?25hs[0Kh[0K[?25lb[0K[130G[?25h[131G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git remote add origin https://github.com/cdlethem/srt_dashbo[0K[?25ha[0Kr[0Kd[0K[0K.[?25l
+[0K[?25hg[0Ki[0K[?25lt[0K[3G[?25h[4G[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ g[0K[72G[?25h[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ gi[0K[?25h[?25lt[0K[74G[?25h[75G[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git p[0K[?25hu[0Ks[0Kh[0K[81G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git push -[0K[?25h[?25lu[0K[82G[?25h[83G[84G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git push -u o[0K[?25h[?25lr[0K[85G[?25h[86G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git push -u ori[0K[?25hg[0Ki[0Kn[0K[91G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git push -u origin m[0K[?25ha[0Ks[0Kt[0K[?25le[0K[95G[?25h[96G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ git push -u origin master[0K[?25h[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': c[0K[?25hd[0Kl[0Ke[0Kt[0Kh[0Ke[0Km[0K[?25l
+Password for 'https://cdlethem@github.com':[0K[45G[?25h[?25l
+[0K[?25hCounting objects: 36, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects:  56% (18/32)[0K[1G[?25hCompressing objects: 100% (32/32), done.[0K[?25l
+Writing objects: 100% (36/36), 6.27 KiB | 0 bytes/s, done.[0K[1G[?25h[?25l
+Total 36 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), done.[0K[?25l
+[0K[?25hTo https://github.com/cdlethem/srt_dashboard.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch master set up to track remote branch master from origin.[0K[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$[0K[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ c[0K[72G[?25h[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ cd[0K[?25h[75G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard/srt_shiny[0m$ cd .[0K[?25h[?25l.[0K[76G[?25h[77G]0;cdlet@Colin-PC: /mnt/c/Users/cdlet/Documents/R/srt_dashboard[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25h[?25li[0K[63G[?25h[64G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[?25h[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git i[0K[?25h[?25ln[0K[67G[?25h[68G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git ini[0K[?25h[?25lt[0K[69G[?25h[70G[?25l
+[0K[?25hInitialized empty Git repository in /mnt/c/Users/cdlet/Documents/R/srt_dashboard/.git/[0K[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25h[?25li[0K[63G[?25h[64G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[64G[?25h[65G[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[?25h[?25ld[0K[67G[?25h[68G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add[0K[?25h[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[70G[?25h[71G[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[66G[?25h[67G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git co[0K[?25hm[0Km[0Ki[0Kt[0K[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -[0K[?25hm[0K[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "[0K[?25hI[0Kn[0Ki[0Kt[0K[?25li[0K[81G[?25h[82G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "Initia[0K[?25hl[0K[85G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "Initial C[0K[?25ho[0Km[0K[?25lm[0K[88G[?25h[89G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "Initial Commi[0K[?25h[?25lt[0K[90G[?25h[91G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "Initial Commit"[0K[?25h[?25l
+[0K[?25h[master (root-commit) ca183c7] Initial Commit[0K[?25l
+[0K[?25h 9 files changed, 20573 insertions(+)[0K[?25l
+ create mode 100644 .RData[0K
+ create mode 100644 .Rhistory[0K
+ create mode 100644 Pre_Processing.R[0K
+ create mode 100644 apires.json[0K
+ create mode 100644 prospieDF[0K
+ create mode 100644 prospieDF.RData[0K
+ create mode 160000 srt_shiny[0K
+ create mode 100644 srtfetch.json[0K
+ create mode 100644 test.json[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[?25h[?25ld[0K[67G[?25h[68G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add[0K[?25h[70G[69G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git ad[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[67G[?25h[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git r[0K[66G[?25h[67G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git re[0K[67G[?25h[68G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git rem[0K[68G[?25h[69G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remo[0K[?25ht[0Ke[0K[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote o[0K[?25hr[0Ki[0K[?25lg[0K[76G[?25h[77G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origi[0K[?25hn[0K[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin m[0K[?25h[?25la[0K[81G[?25h[82G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin mas[0K[?25ht[0Ke[0Kr[0K[87G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master h[0K[87G[?25h[88G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master ht[0K[88G[?25h[89G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master htt[0K[?25hp[0Ks[0K[?25l:[0K[92G[?25h[93G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https:/[0K[?25h/[0Kc[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://[0K[96G[?25h[95G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://g[0K[?25hi[0Kt[0Kg[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://git[0K[99G[?25h[98G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://gith[0K[?25hu[0K[?25lb[0K[100G[?25h[101G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.[0K[?25hc[0Ko[0Km[0K/[0Kc[0K[?25ld[0K[107G[?25h[108G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdl[0K[?25he[0Kt[0Kh[0Ke[0Km[0K/[0Ks[0K[?25lr[0K[116G[?25h[117G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdlethem/srt[0K[?25h_[0Kd[0Ka[0Ks[0K[?25lh[0K[122G[?25h[123G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdlethem/srt_dashb[0K[123G[?25h[124G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdlethem/srt_dashbo[0K[?25ha[0Kr[0Kd[0K[?25l
+[0K[?25herror: Unknown subcommand: origin[0K[?25l
+usage: git remote [-v | --verbose][0K
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>[0K
+   or: git remote rename <old> <new>[0K
+   or: git remote remove <name>[0K
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)[0K
+   or: git remote [-v | --verbose] show [-n] <name>[0K
+   or: git remote prune [-n | --dry-run] <name>[0K
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...][0K
+   or: git remote set-branches [--add] <name> <branch>...[0K
+   or: git remote get-url [--push] [--all] <name>[0K
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>][0K
+   or: git remote set-url --add <name> <newurl>[0K
+   or: git remote set-url --delete <name> <url>[0K
+[0K
+    -v, --verbose         be verbose; must be placed before a subcommand[0K
+[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[127G[126G[125G[124G[123G[121G[119G[117G[116G[115G[114G[113G[112G[111G[110G[109G[108G[107G[106G[105G[103G[101G[99G[98G[97G[96G[95G[94G[93G[92G[91G[90G[89G[88G[87G[86G[85G[84G[83G[82G[81G[80G[79G[78G[77G[76G[75G[74G[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote aorigin master https://github.com/cdlethem/srt_dashboard[0K[74G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote adorigin master https://github.com/cdlethem/srt_dashboard[0K[75G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote addorigin master https://github.com/cdlethem/srt_dashboard[0K[76G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[77G[?25h[?25l
+usage: git remote add [<options>] <name> <url>[0K
+[0K
+    -f, --fetch           fetch the remote branches[0K
+    --tags                import all tags and associated objects when fetching[0K
+                          or do not fetch any tag at all (--no-tags)[0K
+    -t, --track <branch>  branch(es) to track[0K
+    -m, --master <branch>[0K
+                          master branch[0K
+    --mirror[=<push|fetch>][0K
+                          set up remote as a mirror to push to or fetch from[0K
+[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "Initial Commit"        b.[0K[92G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git init[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ cd ..[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push -u origin master[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "Initial commit"       com/[0K[92G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h -m "Initial commit"[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git init[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ node app.js[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ npm install[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ ls[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ rm srtfetch.json[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ ls[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ npm install[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ node app.js[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git init[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h -m "Initial commit"[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h -m "Initial commit"[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote origin master https://github.com/cdlethem/srt_dashboard[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "Initial Commit"        b.[0K[92G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git init[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ cd ..[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push -u origin master[0K[?25h[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': c[0K[?25hd[0Kl[0Ke[0Kt[0Kh[0Ke[0Km[0K[?25l
+Password for 'https://cdlethem@github.com':[0K[45G[?25h[?25l
+[0K[?25hTo https://github.com/cdlethem/srt_dashboard.git[0K[?25l
+ ! [rejected]        master -> master (fetch first)[0K
+error: failed to push some refs to 'https://github.com/cdlethem/srt_dashboard.git'[0K
+hint: Updates were rejected because the remote contains work that you do[0K
+hint: not have locally. This is usually caused by another repository pushing[0K
+hint: to the same ref. You may want to first integrate the remote changes[0K
+hint: (e.g., 'git pull ...') before pushing again.[0K
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push -u origin master[0K[?25h[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': c[0K[?25hd[0Kl[0Ke[0Kt[0Kh[0Ke[0Km[0K[?25l
+Password for 'https://cdlethem@github.com':[0K[45G[?25h[?25l
+[0K[?25hCounting objects: 9, done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  55% (5/9)[0K[1G[?25hCompressing objects: 100% (9/9), done.[0K[?25l
+Writing objects:  22% (2/9)[0K[1G[?25h[?25lWriting objects:  77% (7/9)[0K[1G[?25hWriting objects: 100% (9/9), 850.05 KiB | 0 bytes/s, done.[0K[?25l
+Total 9 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/cdlethem/srt_dashboard.git[0K[?25l
+ * [new branch]      master -> master[0K
+Branch master set up to track remote branch master from origin.[0K
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push -u origin master[0K[62G[?25h[87G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git remote add origin https://github.com/cdlethem/srt_dashboard.git[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push -u origin master       thub.com/cdlet[0K[87G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[87G[?25h[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git p[0K[?25hu[0Kl[0Kl[0K[71G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git pull origin m[0K[?25h[?25la[0K[79G[?25h[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git pull origin mas[0K[?25ht[0Ke[0Kr[0K[?25l
+[0K[?25hFrom https://github.com/cdlethem/srt_dashboard[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+[0K[?25hAlready up-to-date.[0K[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git m[0K[?25he[0Kr[0Kg[0Ke[0K[?25l
+[0K[?25hAlready up-to-date.[0K[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[66G[?25h[67G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git ad[0K[?25hd[0K[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0K[?25lt[0K[64G[?25h[65G[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[?25ho[0K[?25lm[0K[68G[?25h[69G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git comm[0K[?25h[?25li[0K[70G[?25h[71G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   srt_shiny[0m (modified content, untracked content)[0K
+[0K
+no changes added to commit[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[?25h[?25ld[0K[67G[?25h[68G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add[0K[?25h[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add s[0K[?25h[?25lr[0K[71G[?25h[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt[0K[?25h[?25l_[0K[73G[?25h[74G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_s[0K[?25hh[0Ki[0Kn[0Ky[0K[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ c[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   srt_shiny[0m (modified content, untracked content)[0K
+[0K
+no changes added to commit[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git s[0K[?25ht[0K[?25la[0K[68G[?25h[69G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git stag[0K[?25he[0K[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git stage .[0K[72G[?25h[73G[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l
+[0K[?25h[?25lOn branch master[0K[1G[?25h[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   srt_shiny[0m (modified content, untracked content)[0K
+[0K
+no changes added to commit[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25h[?25li[0K[63G[?25h[64G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[?25h[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git s[0K[?25ht[0Ka[0Kt[0K[?25lu[0K[70G[?25h[71G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status[0K[?25h[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status -[0K[73G[?25h[74G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status --[0K[?25hi[0Kg[0Kn[0Ko[0K[?25lr[0K[79G[?25h[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status --ignore[0K[?25h[?25ld[0K[81G[?25h[82G[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+  (commit or discard the untracked or modified content in submodules)[0K
+[0K
+        [0;31mmodified:   srt_shiny[0m (modified content, untracked content)[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[?25ho[0K[?25lm[0K[68G[?25h[69G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git comm[0K[?25hi[0Kt[0K[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -[0K[?25ha[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   srt_shiny[0m (modified content, untracked content)[0K
+[0K
+no changes added to commit[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[66G[?25h[67G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git ad[0K[?25hd[0K[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add s[0K[?25h[?25lr[0K[71G[?25h[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt[0K[?25h_[0Ks[0Kh[0K[?25li[0K[76G[?25h[77G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shin[0K[?25hy[0K/[0K.[0K[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shiny/.[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -a[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   srt_shiny[0m (modified content, untracked content)[0K
+[0K
+no changes added to commit[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[66G[?25h[67G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git ad[0K[?25hd[0K[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[70G[?25h[71G[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25h[?25li[0K[63G[?25h[64G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[?25h[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+nothing to commit, working directory clean[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -a[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shiny/.[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -a[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status --ignored[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+nothing to commit, working directory clean[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status --ignored[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -a[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shiny/.[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -a[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shiny/.[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shiny/[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shiny[0K[?25h[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0K[?25lt[0K[64G[?25h[65G[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+nothing to commit, working directory clean[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[62G[?25h[63G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ gi[0K[?25ht[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git p[0K[66G[?25h[67G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git pu[0K[?25hs[0K[?25lh[0K[69G[?25h[70G[71G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push o[0K[?25hr[0Ki[0K[?25lg[0K[74G[?25h[75G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origi[0K[?25h[?25ln[0K[76G[?25h[77G[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origin m[0K[?25ha[0Ks[0K[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origin ma[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origin m[0K[80G[?25h[79G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origin[0K[78G[?25h[77G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origi[0K[77G[?25h[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push orig[0K[76G[?25h[75G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push ori[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push or[0K[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push o[0K[73G[?25h[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push[0K[71G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push r[0K[?25he[0K[?25lm[0K[73G[?25h[74G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push remo[0K[?25ht[0Ke[0K[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push remote m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hfatal: 'remote' does not appear to be a git repository[0K[?25l
+fatal: Could not read from remote repository.[0K
+[0K
+Please make sure you have the correct access rights[0K
+and the repository exists.[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25h[?25li[0K[63G[?25h[64G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[?25h[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git p[0K[?25h[?25lu[0K[67G[?25h[68G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git pus[0K[?25hh[0K[71G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push o[0K[71G[?25h[72G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push or[0K[?25hi[0Kg[0Ki[0Kn[0K[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origin m[0K[?25h[?25la[0K[79G[?25h[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git push origin mas[0K[?25ht[0Ke[0K[?25lr[0K[83G[?25h[84G[?25l
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': c[0K[?25hd[0Kl[0Ke[0Kt[0Kh[0Ke[0Km[0K[?25l
+Password for 'https://cdlethem@github.com':[0K[45G[?25h[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25hi[0Kt[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git s[0K[66G[?25h[67G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git st[0K[?25ha[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+nothing to commit, working directory clean[0K
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[62G[?25h[63G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ gi[0K[63G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[?25h[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status .[0K[?25h[?25l
+On branch master[0K
+Your branch is up-to-date with 'origin/master'.[0K
+nothing to commit, working directory clean[0K
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[62G[?25h[63G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ gi[0K[?25ht[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[?25hd[0Kd[0K[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add .[0K[?25h[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[62G[?25h[63G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ gi[0K[?25ht[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git c[0K[?25ho[0Km[0Km[0Ki[0K[?25lt[0K[71G[?25h[72G[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -[0K[?25hm[0K[76G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "[0K[?25hs[0K[?25lh[0K[78G[?25h[79G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "shi[0K[?25h[?25ln[0K[80G[?25h[81G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "shiny[0K[?25h a[0Kp[0Kp[0K[87G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "shiny app i[0K[87G[?25h[88G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "shiny app in[0K[?25hi[0Kt[0Ki[0Ka[0Kl[0K[95G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "shiny app initial c[0K[?25ho[0Km[0Km[0Ki[0K[?25lt[0K[100G[?25h[101G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git commit -m "shiny app initial commit"[0K[101G[?25h[102G[?25l
+[0K[?25hOn branch master[0K[?25l
+[0K[?25hYour branch is up-to-date with 'origin/master'.[0K[?25l
+nothing to commit, working directory clean[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[62G[?25h[63G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ gi[0K[?25ht[0K[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git s[0K[?25ht[0Ka[0Kt[0Ku[0K[?25ls[0K[71G[?25h[72G[73G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git status -[0K[?25h-[0Ki[0Kg[0Kn[0Ko[0Kr[0Ke[0Kd[0K[?25l
+On branch master[0K
+[0K[?25hYour branch is up-to-date with 'origin/master'.[0K[?25l
+nothing to commit, working directory clean[0K
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[?25h[?25li[0K[63G[?25h[64G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[?25h[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[?25hd[0Kd[0K[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add s[0K[?25hr[0Kt[0K[?25l_[0K[73G[?25h[74G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_s[0K[74G[?25h[75G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_sh[0K[?25h[?25li[0K[76G[?25h[77G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shin[0K[?25hy[0K[?25l/[0K[79G[?25h[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add srt_shiny/u[0K[?25hi[0K.[0KR[0K[?25l
+[0K[?25hfatal: Pathspec 'srt_shiny/ui.R' is in submodule 'srt_shiny'[0K[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ ^C[0K[62G[?25h[?25l
+[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25h[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[62G[?25h[63G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ gi[0K[?25h[?25lt[0K[64G[?25h[65G[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git r[0K[?25hm[0K[69G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git rm -[0K[69G[?25h[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git rm --[0K[?25hc[0Ka[0Kc[0Kh[0Ke[0K[?25ld[0K[76G[?25h[77G[78G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git rm --cached s[0K[?25h[?25lr[0K[79G[?25h[80G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git rm --cached srt[0K[?25h_[0K[?25ls[0K[82G[?25h[83G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git rm --cached srt_sh[0K[?25hi[0Kn[0Ky[0K[?25l
+[0K[?25hrm 'srt_shiny'[0K[?25l
+[0K[?25h[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$[0K[62G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ g[0K[62G[?25h[63G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ gi[0K[63G[?25h[64G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git[0K[64G[?25h[65G[66G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git a[0K[?25hd[0Kd[0K[70G[?25l[0;32;92mcdlet@Colin-PC[0m:[0;34;94m/mnt/c/Users/cdlet/Documents/R/srt_dashboard[0m$ git add s[0K[?25hr[0Kt[0K_[0Ks[0Kh[0Ki[0Kn[0Ky[0K

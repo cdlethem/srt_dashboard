@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536405120734.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A91653A",
+    "lastKnownWriteTime" : 1536471420,
+    "last_content_update" : 1536471420326,
+    "path" : "~/R/srt_dashboard/srt_shiny/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "130,35",
+        "scrollLine" : "121"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

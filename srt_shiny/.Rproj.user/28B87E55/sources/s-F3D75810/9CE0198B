@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536297048559.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3123160282",
+    "id" : "9CE0198B",
+    "lastKnownWriteTime" : 1536228305,
+    "last_content_update" : 1536228305,
+    "path" : "~/R/srt_dashboard/Pre_Processing.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "76,0",
+        "scrollLine" : "61"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
